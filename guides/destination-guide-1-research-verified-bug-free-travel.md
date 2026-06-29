@@ -1,8 +1,4 @@
-# Guide #1: Research-Verified Bug-Free Travel Destinations
 
-> **Last verified:** June 2025 — Sources cited throughout. Always double-check with latest advisories before travel.
-
----
 
 ## Part 1: True Zero-Bug Destinations (Cold & Dry)
 
@@ -22,7 +18,7 @@ These destinations are scientifically confirmed to have zero resident mosquito o
 | **Seasonal Notes** | Winter (Apr–Oct) is completely dark and inaccessible. Summer offers 24-hour daylight. |
 | **Sources** | Explore.com, Times Now, Times of India, multiple entomology studies |
 
-**Traveler Tip:** Over 100,000 people visited Antarctica in 2023. Cruises depart from Ushuaia, Argentina. Summer temperatures reach 0–5°C (32–41°F) — dress in layers, but you will never need to worry about a single bite.
+**Traveler Tip:** Over 100,000 people visited Antarctica in 2023. Cruises depart from Ushuaia, Argentina. Summer temperatures reach 0–5C (32–41F) — dress in layers, but you will never need to worry about a single bite.
 
 ---
 
@@ -33,9 +29,9 @@ These destinations are scientifically confirmed to have zero resident mosquito o
 | **Best Season** | June – August |
 | **Bug Rating** | Zero — completely insect-free |
 | **True Zero?** | Yes — confirmed by scientific research |
-| **Why It's Bug-Free** | A mystery! Reykjavik is on the same latitude as Fairbanks, Alaska (the "mosquito state"), yet Iceland has none. Theories include: oceanic climate with 3 big freeze-thaw cycles per year preventing breeding, and something in the soil/water insects avoid. Greenland, its neighbor, is swarming. |
+| **Why It's Bug-Free** | A mystery! Reykjavik is on the same latitude as Fairbanks, Alaska (the mosquito state), yet Iceland has none. Theories include: oceanic climate with 3 big freeze-thaw cycles per year preventing breeding, and something in the soil/water insects avoid. Greenland, its neighbor, is swarming. |
 | **Key Risks** | No bugs, but weather can be unpredictable even in summer. |
-| **Seasonal Notes** | Summer (Jun–Aug) offers mild temps (10–15°C / 50–59°F) and near-24-hour daylight. Winter is dark, cold, and some roads close. |
+| **Seasonal Notes** | Summer (Jun–Aug) offers mild temps (10–15C / 50–59F) and near-24-hour daylight. Winter is dark, cold, and some roads close. |
 | **Sources** | Explore.com, NY Times, multiple travel science articles |
 
 **Traveler Tip:** Flight from NYC to Reykjavik is ~6 hours. No need for repellent, netting, or bug-proof accommodations. Just pack for rain and wind!
@@ -51,7 +47,7 @@ These destinations are scientifically confirmed to have zero resident mosquito o
 | **True Zero?** | Yes |
 | **Why It's Bug-Free** | Arctic climate, permafrost, and extreme cold prevent any insect colonization. Only during brief warm spells might a few stray insects appear, but they cannot establish populations. |
 | **Key Risks** | Polar bears (carry rifle protection on excursions), extreme cold. |
-| **Seasonal Notes** | Summer offers midnight sun and temperatures of 5–10°C (41–50°F). Winter is dark and -20°C to -40°C. |
+| **Seasonal Notes** | Summer offers midnight sun and temperatures of 5–10C (41–50F). Winter is dark and -20C to -40C. |
 | **Sources** | Explore.com, Arctic research publications, Norwegian Polar Institute |
 
 **Traveler Tip:** Longyearbyen is the main settlement. Arctic Safaris and dog-sledding tours operate in summer. No insects — just spectacular fjords, glaciers, and polar wildlife.
@@ -67,7 +63,7 @@ These destinations are scientifically confirmed to have zero resident mosquito o
 | **True Zero?** | Yes |
 | **Why It's Bug-Free** | North Atlantic location, cool damp air, and lack of standing warm water prevent insect breeding. The oceanic climate is too hostile for mosquitoes and most flying insects. |
 | **Key Risks** | Wind, rain, and unpredictable weather. But no bugs! |
-| **Seasonal Notes** | Summer is the prime visiting season with mild temps (8–14°C / 46–57°F) and near-constant daylight. Winter storms can make travel difficult. |
+| **Seasonal Notes** | Summer is the prime visiting season with mild temps (8–14C / 46–57F) and near-constant daylight. Winter storms can make travel difficult. |
 | **Sources** | Explore.com, Faroese tourism boards, Arctic ecology studies |
 
 **Traveler Tip:** Fly from Copenhagen or Edinburgh. Hikers and bird-watchers will love the dramatic landscapes — and the complete absence of any crawling or flying pests.
@@ -83,7 +79,7 @@ These destinations are scientifically confirmed to have zero resident mosquito o
 | **True Zero?** | Yes |
 | **Why It's Bug-Free** | The Atacama is the driest desert on Earth — some weather stations have never recorded rain. No standing water = no mosquitoes, no flies, no insects of any kind. High altitude (2,400m+) also discourages most species. |
 | **Key Risks** | Extreme sun exposure (UV is intense at altitude), dehydration. Not bugs! |
-| **Seasonal Notes** | Spring (Sep–Nov) and autumn (Apr–May) offer comfortable temps (15–25°C / 59–77°F). Summer (Dec–Feb) can be scorching at lower elevations. Winter (Jun–Aug) is cold at night. |
+| **Seasonal Notes** | Spring (Sep–Nov) and autumn (Apr–May) offer comfortable temps (15–25C / 59–77F). Summer (Dec–Feb) can be scorching at lower elevations. Winter (Jun–Aug) is cold at night. |
 | **Sources** | Explore.com, Chile tourism, Atacama Desert scientific studies |
 
 **Traveler Tip:** Stay in San Pedro de Atacama. Stargazing tours are world-class (clear skies 300+ nights/year). No bug spray, no nets — just desert magic.
@@ -119,7 +115,7 @@ These destinations have very low insect counts thanks to trade winds, resort tre
 | **Best Season** | December – April |
 | **Bug Rating** | Very Low — volcanic terrain limits insect habitats |
 | **True Zero?** | No, but volcanic landscape and dry season make it exceptionally low |
-| **Why It Is Nearly Bug-Free** | Montserrat is one of the few Caribbean islands where mosquitoes are "practically non-existent" per citizen reports. The volcanic terrain (Soufriere Hills) means less stagnant water, and the dry season keeps populations minimal. |
+| **Why It Is Nearly Bug-Free** | Montserrat is one of the few Caribbean islands where mosquitoes are practically non-existent per citizen reports. The volcanic terrain (Soufriere Hills) means less stagnant water, and the dry season keeps populations minimal. |
 | **Key Risks** | Volcanic activity zone (exclusion zone in south). Not a bug risk! |
 | **Seasonal Notes** | Dry season (Dec–Apr): warm and breezy, minimal insects. Wet season (May–Nov): more mosquitoes, especially after rains. |
 | **Sources** | Citizen Daily Post, Explore.com, Caribbean travel forums |
@@ -228,7 +224,7 @@ These destinations have very low insect counts thanks to trade winds, resort tre
 
 ---
 
-### Singapore (Urban Core — Limited)
+### Singapore (Urban Core)
 
 | Detail | Info |
 |--------|------|
@@ -240,7 +236,7 @@ These destinations have very low insect counts thanks to trade winds, resort tre
 | **Seasonal Notes** | Driest months (Feb–Apr): lower mosquito counts, still use repellent. Wettest months (Nov–Jan): highest dengue risk — be very cautious. |
 | **Sources** | CDC Travelers' Health, Singapore National Environment Agency, GOV.UK Travel Health Pro |
 
-**Traveler Tip:** Singapore's urban core (Marina Bay, Orchard Road, Sentosa) is well-sprayed and AC-heavy. But always use DEET repellent — this is one destination where bug-phobes need to be extra cautious. The government's "Do the Mozzie Wipeout" campaign shows how serious they are about control.
+**Traveler Tip:** Singapore's urban core (Marina Bay, Orchard Road, Sentosa) is well-sprayed and AC-heavy. But always use DEET repellent — this is one destination where bug-phobes need to be extra cautious. The government's Do the Mozzie Wipeout campaign shows how serious they are about control.
 
 ---
 
@@ -333,7 +329,7 @@ These destinations have very low insect counts thanks to trade winds, resort tre
 Found a bug-free destination we missed? Have a seasonal tip? Open an issue or pull request!
 
 ### To Add a Destination:
-1. GitHub Issue -> `New Destination: [Place Name]`
+1. GitHub Issue -> New Destination: [Place Name]
 2. Include: location, your bug experience, best/worst seasons, why it is bug-free (sources!), caveats
 3. We will format and add it!
 
